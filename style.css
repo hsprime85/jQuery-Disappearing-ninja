@@ -1,0 +1,43 @@
+#container {
+    margin: 0 auto;
+    width: 970px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: #BDF5F3;
+    padding: 25px;
+}
+
+h1 {
+    text-align: center;
+    color: #8A5FFF;
+}
+
+img {
+    height: 150px;
+    width: 150px;
+    margin: 20px;
+    padding: 5px;
+    background-color: yellowgreen;
+    
+}
+
+#firstLine {
+    display: flex;
+    justify-content: center;
+}
+
+
+#secondLine {
+    display: flex;
+    justify-content: center;
+}
+
+button {
+    width : 200px;
+    height: 50px;
+    font-size: 25px;
+    border-radius: 20px;
+    background-color: thistle;
+    border-style: none;
+    color: white;
+   
+}
